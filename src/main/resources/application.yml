@@ -1,0 +1,9 @@
+spring:
+  application:
+    name: Jq_Server
+  datasource:
+    url: jdbc:postgresql://43.136.32.212:5432/bestfarmer
+    username: postgres
+    password: 7307913.5t5t
+server:
+  port: 80
